@@ -3,7 +3,7 @@ Poema Network(AS138517) is a network operated by Kusakabe Shi(aka kskb).
 It's a non-profit project for learning, education and research.
 
 ## Prefixes
-This is a prefix list that we will announce(bay changed over time):
+This is a prefix list that we will announce(may change over time):
 * 2404:f4c0:f700::/44 #LSC
 * 2406:840:9840::/44 #ZX
 * 2407:9240:1001::/48 #Yi
