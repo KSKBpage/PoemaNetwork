@@ -1,6 +1,6 @@
 # Poema Network
 Poema Network(AS138517) is a network operated by Kusakabe Shi(aka kskb).  
-Poema Network is a non-profit project for learning, education and research.
+It's a non-profit project for learning, education and research.
 
 ## Prefixes
 This is a prefix list that we will announce(bay changed over time):
