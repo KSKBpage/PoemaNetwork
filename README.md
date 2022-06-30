@@ -12,7 +12,7 @@ This is a prefix list that we will announce(bay changed over time):
 * 2a0d:2587:8400::/40 #SZK
 * 2a0e:b107:1980::/44 #tunnelbroker.ch
 * 2602:feda:a80::/44 #nat.moe
-* (downstream routes)
+* (downstream routes, currently no downstream)
 
 ## Services
 Poema Network provides following services
