@@ -21,7 +21,7 @@ Poema Network provides following services
 
 ### KSKB-IX
 A non-profit internet exchange point(IXP) at my home in Taipei for BGP hobbies.  
-Link: https://ix.kskb.eu.org
+Link: [https://ix.kskb.eu.org](https://ix.kskb.eu.org)
 
 ## Peering
 Poema Network has open peering policy, we are willing to peer over any exchange points we have in common or over wireguard tunnel via ipv4.
