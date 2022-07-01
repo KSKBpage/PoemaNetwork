@@ -1,3 +1,5 @@
 site_name: Poema Network
 theme:
     name: flatly
+extra_css:
+    - css/hidefooter.css
