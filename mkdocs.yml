@@ -7,9 +7,10 @@ extra_css:
 markdown_extensions:
   - pymdownx.tilde
   - pymdownx.extra
+  - pymdownx.magiclink
 nav:
   - Poema Network: index.md
   - KSKB-IX: "https://ix.kskb.eu.org"
 site_url: https://net.kskb.moe/
 repo_url: https://github.com/KSKBpage/PoemaNetwork
-edit_uri: edit/main/docs/
+edit_uri: blob/main/docs/
