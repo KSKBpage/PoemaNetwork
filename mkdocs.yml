@@ -6,3 +6,5 @@ extra_css:
 markdown_extensions:
     - pymdownx.tilde
 site_url: https://net.kskb.moe/
+repo_url: https://github.com/KSKBpage/PoemaNetwork
+edit_uri: edit/main/docs/
