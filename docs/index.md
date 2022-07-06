@@ -20,7 +20,7 @@ It's a non-profit project for learning, education and research.
 Poema Network provides following services
 
 ### KSKB-IX
-A non-profit internet exchange point(IXP) at my home in Taipei for BGP hobbies.  
+A non-profit internet exchange point(IXP) at my home in Taipei for BGP and computer networking hobbyists.  
 Link: [https://ix.kskb.eu.org](https://ix.kskb.eu.org)
 
 ## Peering
