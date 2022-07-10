@@ -14,6 +14,7 @@ It's a non-profit project for learning, education and research.
 | 2a0d:2587:8400::/40 | SZK                       |
 | 2a0e:b107:1980::/44 | tunnelbroker.ch           |
 | 2602:feda:a80::/44  | nat.moe                   |
+| 2602:fb45:f00::/40  | YousaFan LLC              |
 | (downstream routes) | (currently no downstream) |
 
 ## Services
