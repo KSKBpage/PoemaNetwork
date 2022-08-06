@@ -14,6 +14,7 @@ It's a non-profit project for learning, education and research.
 | 2a0d:2587:8400::/40 | AS203472 | SZK                       |
 | 2a0e:b107:1980::/44 | AS138517 | tunnelbroker.ch           |
 | 2602:feda:a80::/44  | AS138517 | nat.moe                   |
+| 2602:fb45:f00::/40  | AS138517 | YousaFan LLC              |
 | 2a0e:8f02:f046::/48 | AS203472 | freetransit.ch            |
 | (downstream routes) |          | (currently no downstream) |
 
@@ -21,7 +22,7 @@ It's a non-profit project for learning, education and research.
 Poema Network provides following services
 
 ### KSKB-IX
-A non-profit internet exchange point(IXP) at my home in Taipei for BGP hobbies.  
+A non-profit internet exchange point(IXP) at my home in Taipei for BGP and computer networking hobbyists.  
 Link: [https://ix.kskb.eu.org](https://ix.kskb.eu.org)
 
 ## Peering
