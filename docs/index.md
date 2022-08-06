@@ -1,20 +1,21 @@
 # Poema Network
-Poema Network(AS138517) is a network operated by Kusakabe Shi(aka kskb).  
+Poema Network(AS138517 and AS203472) is a network operated by Kusakabe Shi(aka kskb).  
 It's a non-profit project for learning, education and research.
 
 ## Prefixes
 
-| Prefix              | Comment                   |
-|---------------------|---------------------------|
-| 2404:f4c0:f700::/44 | LSC                       |
-| 2406:840:9840::/44  | ZX                        |
-| 2407:9240:1001::/48 | Yi                        |
-| 2a06:a005:2b0::/44  | Route48                   |
-| 2a0d:2587:8300::/40 | SZK                       |
-| 2a0d:2587:8400::/40 | SZK                       |
-| 2a0e:b107:1980::/44 | tunnelbroker.ch           |
-| 2602:feda:a80::/44  | nat.moe                   |
-| (downstream routes) | (currently no downstream) |
+| Prefix              |   Origin | Comment                   |
+|---------------------|----------|---------------------------|
+| 2404:f4c0:f700::/44 | AS138517 | LSC                       |
+| 2406:840:9840::/44  | AS138517 | ZX                        |
+| 2407:9240:1001::/48 | AS138517 | Yi                        |
+| 2a06:a005:2b0::/44  | AS138517 | Route48                   |
+| 2a0d:2587:8300::/40 | AS138517 | SZK                       |
+| 2a0d:2587:8400::/40 | AS203472 | SZK                       |
+| 2a0e:b107:1980::/44 | AS138517 | tunnelbroker.ch           |
+| 2602:feda:a80::/44  | AS138517 | nat.moe                   |
+| 2a0e:8f02:f046::/48 | AS203472 | freetransit.ch            |
+| (downstream routes) |          | (currently no downstream) |
 
 ## Services
 Poema Network provides following services
