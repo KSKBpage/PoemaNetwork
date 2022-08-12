@@ -17,6 +17,7 @@ It's a non-profit project for learning, education and research.
 | 2602:fb45:f00::/40  | AS138517 |                                               | YousaFan LLC              |
 | 2a0e:8f02:f046::/48 | AS203472 |                                               | freetransit.ch            |
 | 2a06:a005:600::/44  | AS203472 | [✔️](files/LOA_ROUTE48_2a06-a005-600_44.pdf) | Route48                   |
+| 2a12:3fc2:dd00::/40 | AS203472 |                                               | ZH                        |
 | (downstream routes) |          |                                               | (currently no downstream) |
 
 ## Services
