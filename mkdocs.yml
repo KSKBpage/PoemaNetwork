@@ -11,7 +11,7 @@ markdown_extensions:
   - pymdownx.magiclink
 nav:
   - Poema Network: index.md
-  - KSKB-IX: "https://ix.kskb.eu.org"
+  - Poema-IX: "https://ix.poema.eu.org"
   - KSKB-Net(DN42): "https://dn42.kskb.eu.org"
 site_url: https://net.kskb.moe/
 repo_url: https://github.com/KSKBpage/PoemaNetwork
