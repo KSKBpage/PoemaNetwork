@@ -6,15 +6,13 @@ Poema Network(AS138517 and AS203472) is a network operated by Kusakabe Shi(aka k
 | Prefix              |   Origin |                                           LOA | Comment                   |
 |---------------------|----------|-----------------------------------------------|---------------------------|
 | 2404:f4c0:f700::/44 | AS138517 |                                               | LSC                       |
-| 2406:840:9840::/44  | AS138517 |                                               | ZX                        |
-| 2407:9240:1001::/48 | AS138517 |                                               | Yi                        |
-| 2a06:a005:2b0::/44  | AS138517 | [✔️](files/LOA_ROUTE48_2a06-a005-2b0_44.pdf) | Route48                   |
-| 2a0d:2587:8300::/40 | AS138517 |                                               | SZK                       |
-| 2a0d:2587:8400::/40 | AS203472 |                                               | SZK                       |
+| 2a06:a005:2b0::/44  | AS138517 | [✔️](files/LOA_ROUTE48_2a06-a005-2b0_44.pdf)   | Route48                   |
 | 2a0e:b107:1980::/44 | AS138517 |                                               | tunnelbroker.ch           |
-| 2602:feda:a80::/44  | AS138517 |                                               | nat.moe                   |
+| 2407:9240:1001::/48 | AS203472 |                                               | Yi                        |
+| 2602:feda:a80::/44  | AS203472 |                                               | nat.moe                   |
+| 2406:840:9840::/44  | AS203472 |                                               | ZX                        |
 | 2a0e:8f02:f046::/48 | AS203472 |                                               | freetransit.ch            |
-| 2a06:a005:600::/44  | AS203472 | [✔️](files/LOA_ROUTE48_2a06-a005-600_44.pdf) | Route48                   |
+| 2a06:a005:600::/44  | AS203472 | [✔️](files/LOA_ROUTE48_2a06-a005-600_44.pdf)   | Route48                   |
 | 2a12:3fc2:dd00::/40 | AS203472 |                                               | ZH                        |
 | (downstream routes) |          |                                               | (currently no downstream) |
 
@@ -30,8 +28,8 @@ Poema Network has open peering policy, we are willing to peer over any exchange 
 
 Our network information:
 
-* ASN: 138517
+* ASN: 203472
 * AS-SET: AS-POEMA
 * Policy: Open
-* IXP list: https://www.peeringdb.com/net/29498
+* IXP list: https://www.peeringdb.com/net/30661
 * Node list: https://dn42.kskb.eu.org#kskb-network-as4242421817
