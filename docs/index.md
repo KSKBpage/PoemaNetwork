@@ -16,8 +16,9 @@ Poema Network(AS138517 and AS203472) is a network operated by Kusakabe Shi(aka k
 | 2a0e:b107:2710::/44 | AS203472 |                                               | tunnelbroker.ch           |
 | 2a12:3fc2:dd00::/40 | AS203472 |                                               | ZH                        |
 | 2400:e3e0:f5a8::/48 | AS203472 |                                               | tg                        |
+| (downstream routes) |          |                                               |                           |
 | 2a0a:6040:8100::/40 | AS199594 |                                               | KSKB-IX                   |
-| (downstream routes) |          |                                               | (currently no downstream) |
+
 
 ## Services
 Poema Network provides following services
